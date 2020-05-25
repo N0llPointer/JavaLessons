@@ -1,0 +1,3 @@
+public enum Status {
+  AVAILABLE, ARCHIVED, BORROWED, OVERDUED;
+}
